@@ -1,0 +1,11 @@
+{
+  "name": "focusplaylist",
+  "version": "1.0.0",
+  "description": "Curates background sound loops by focus level from local audio files.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "license": "MIT"
+}
